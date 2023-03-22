@@ -1,0 +1,4 @@
+Public class test;
+	Public static void main (String [] args){
+	Public void display (){
+	System.out.println("display"+display);
