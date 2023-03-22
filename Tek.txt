@@ -6,4 +6,7 @@ Public class test;
 	public void method2(){
 	System.out.println("this is Git new class");
 }
+	public void method3 (){
+	System.out.println("user is new with git");
+	}
 }
