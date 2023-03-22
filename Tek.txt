@@ -2,3 +2,8 @@ Public class test;
 	Public static void main (String [] args){
 	Public void display (){
 	System.out.println("display"+display);
+}
+	public void method2(){
+	System.out.println("this is Git new class");
+}
+}
